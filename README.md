@@ -129,8 +129,7 @@ Nmap done: 1 IP address (1 host up) scanned in 10.48 seconds
            Raw packets sent: 1023 (45.806KB) | Rcvd: 1015 (41.294KB)
 
 PI
-HUGO MARTINS
-099e1359f7a440bef87327e623353f764afc796b994aa3a1fc9dbc5e998fd51674688d18c9658b9f5e1fbf6ad670ed7b0277ca73bf552b2c79380cfe6e01c637
+HUGO MARTINS 
 ==============================
 Parte 2 - arquivo /pi/xhydra.txt
 Hydra v8.6 (c) 2017 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
