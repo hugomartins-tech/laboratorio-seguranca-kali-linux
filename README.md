@@ -3,30 +3,29 @@ Laboratório de Segurança de Redes com Kali Linux
 Sobre o projeto
 
 Projeto acadêmico desenvolvido em ambiente virtualizado e controlado, com o objetivo de aplicar conhecimentos de Segurança da Informação e redes.
-
 Durante o laboratório foram realizadas atividades de reconhecimento e varredura de rede, identificação de portas e serviços e testes de segurança utilizando ferramentas disponíveis no Kali Linux.
 
 Ambiente
 
-- Kali Linux
-- CentOS
-- VMware Workstation
-- Rede TCP/IP
+ Kali Linux
+ CentOS
+ VMware Workstation
+ Rede TCP/IP
 
 Ferramentas utilizadas
 
-- Nmap
-- Hydra
-- Medusa
+ Nmap
+ Hydra
+ Medusa
 
 Atividades realizadas
 
-- Reconhecimento do ambiente
-- Varredura de rede
-- Identificação de portas abertas
-- Identificação de serviços
-- Testes de segurança em ambiente autorizado
-- Registro e documentação dos resultados
+ Reconhecimento do ambiente
+ Varredura de rede
+ Identificação de portas abertas
+ Identificação de serviços
+ Testes de segurança em ambiente autorizado
+ Registro e documentação dos resultados
 
 Resultados
 
@@ -131,7 +130,6 @@ Nmap done: 1 IP address (1 host up) scanned in 10.48 seconds
 
 PI
 
-HUGO MARTINS
 ==============================
 Parte 2 - arquivo /pi/xhydra.txt
 Hydra v8.6 (c) 2017 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
