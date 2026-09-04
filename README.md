@@ -128,7 +128,9 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 10.48 seconds
            Raw packets sent: 1023 (45.806KB) | Rcvd: 1015 (41.294KB)
 
+
 PI
+
 HUGO MARTINS 
 ==============================
 Parte 2 - arquivo /pi/xhydra.txt
