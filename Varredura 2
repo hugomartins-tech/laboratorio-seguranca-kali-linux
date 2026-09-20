@@ -1,0 +1,10 @@
+
+
+azureuser@Kali:~$ ssh alemao@192.168.136.130 alemao@192.168.136.130's password: Last failed login: Sun May 17 10:25:45 -03 2026 from 192.168.136.128 on ssh:notty There were 18 failed login attempts since the last successful login. Last login: Sun May 17 07:48:35 2026 from 192.168.136.128 [alemao@centos ~]$ sudo su
+
+We trust you have received the usual lecture from the local System Administrator. It usually boils down to these three things:
+
+#1) Respect the privacy of others.
+#2) Think before you type.
+#3) With great power comes great responsibility.
+[sudo] password for alemao: alemao is not in the sudoers file. This incident will be reported. [alemao@centos ~]$ exit logout Connection to 192.168.136.130 closed.
